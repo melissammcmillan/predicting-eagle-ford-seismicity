@@ -1,0 +1,196 @@
+---
+title: "Introduction to R"
+output:
+  pdf_document: default
+  html_notebook: default
+---
+
+### An Introduction to R
+
+**OBJECTIVES**
+
+- Basic Data Manipulation with `tidyverse` verbs
+- Visualization with `ggplot`
+
+### DataFrames in `R`
+
+Here we load and read a `.csv` file.  This will create a dataframe object similar to what we have in python. 
+
+### `tidyverse`
+
+To install packages we can use the console, and once we have the library installed we will use the `dplyr` verbs: `select()`, `filter()`, `mutate()`, `group_by()`, `summarize()`. Here is a handy [cheatsheet](https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf).
+```{r}
+2 + 3
+```
+
+
+```{r}
+#load library
+library(tidyverse)
+```
+```{r}
+head(data_ready_for_modelling)
+```
+```{r}
+#select -- column selection
+head(data_ready_for_modelling)
+select(data_ready_for_modelling, Daily_Sum, fracs_per_day)
+```
+
+```{r}
+#filter -- filter rows on condition
+filter(data_ready_for_modelling, fracs_per_day > 20)
+```
+
+```{r}
+#filter then select
+data_ready_for_modelling %>%
+  filter(fracs_per_day > 20) %>%
+  select(Daily_Sum, volume_per_day)
+```
+
+```
+```{r}
+#mutate
+#notice, if we run a head(), this new sepal.ten column is not there. IT doesn't get saved
+#unless we assign it to a new variable
+new_data <- data_ready_for_modelling %>%
+  mutate(volume_per_day_1000 = volume_per_day / 1000)
+head(new_data)
+```
+
+```
+```{r}
+#mutate
+#notice, if we run a head(), this new sepal.ten column is not there. IT doesn't get saved
+#unless we assign it to a new variable
+new_data <- data_ready_for_modelling %>%
+  mutate(volume_per_day_1000 = volume_per_day / 1000)
+head(new_data)
+```
+
+```{r}
+#group_by and summarize by counting: n() means count
+new_data %>%
+  group_by(fracs_per_day) %>%
+  summarize(n())
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+### Introducing `ggplot`
+
+In the R notebooks we can insert code blocks including loading libraries and generating plots.  Below we load in the tidyverse library and examine the built in dataset `mpg`.
+
+
+```{r}
+library(tidyverse)
+head(new_data)
+```
+
+### Bar Plot
+
+```r
+ggplot(data, aes(x = column)) + 
+    geom_bar()
+```
+
+```{r}
+#aes is for aesthetic
+ggplot(new_data, aes(x = fracs_per_day)) +
+  geom_bar()
+```
+
+
+### Histogram
+
+```r
+ggplot(data, aes(x = column)) + 
+    geom_histogram()
+```
+
+```{r}
+ggplot(new_data, aes(x = fracs_per_day)) +
+  geom_histogram() + 
+  labs(title = 'Fracs per Day')
+```
+
+
+### Density Plot
+
+```r
+ggplot(data, aes(x = column)) + 
+    geom_histogram()
+```
+
+```{r}
+ggplot(new_data, aes(x = X1)) + 
+  geom_density()
+```
+
+
+### Boxplots and Jitter
+
+```r
+ggplot(data, aes(x = x, y = y)) + 
+    geom_boxplot() + 
+    geom_jitter()
+```
+
+```{r}
+ggplot(mpg, aes(x = manufacturer, y = displ )) +
+  geom_boxplot() +
+  geom_jitter() +
+  labs(title = 'Displacement by Manufacturer')
+```
+
+
+### Scatter Plot
+
+```r
+ggplot(data, aes(x = x, y = y)) + 
+    geom_point() + 
+    geom_smooth()
+```
+
+```{r}
+ggplot(new_data, aes(x = X1, y = fracs_per_day)) +
+  geom_point(aes(color = Daily_Avg)) +
+  geom_smooth(method = 'lm')
+```
+
+
+### A Basic Model
+
+```r
+lm(y ~ x)
+```
+
+```{r}
+#first name the target, y, then name the x
+#this is the equation for the line represented in the plot above
+lm(mpg$hwy ~ mpg$displ)
+```
+
+```{r}
+
+```
+
+
+
+
+

@@ -1,0 +1,66 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2021-01-03T17:34:50.406Z,28.8859,-98.1085,5,2.8,ml,,75,0.127,0.21,us,us6000d5ab,2021-02-01T14:49:49.159Z,"13 km SW of Falls City, Texas",earthquake,1.3,1.7,0.148,12,reviewed,us,us
+2021-01-01T12:21:50.864Z,28.8387,-98.1177,5,2.6,ml,,85,0.161,0.54,us,us6000d4su,2021-01-26T07:56:06.040Z,"southern Texas",earthquake,4.1,2,0.097,14,reviewed,us,us
+2020-11-05T16:39:11.461Z,29.0969,-97.8419,5,2.6,mb_lg,,66,0.121,0.65,us,us7000cauv,2021-01-23T22:25:29.040Z,"19 km SE of Stockdale, Texas",earthquake,1.7,1.9,0.128,16,reviewed,us,us
+2020-10-11T15:16:11.434Z,28.5638,-98.1818,5,2.5,mb_lg,,112,0.372,0.99,us,us6000c7ug,2020-12-19T17:22:49.040Z,"11 km N of Three Rivers, Texas",earthquake,1.6,1.9,0.114,20,reviewed,us,us
+2020-09-05T08:48:49.559Z,28.9193,-98.1317,5,2.8,mb_lg,,69,0.135,0.64,us,us7000bid5,2020-11-17T19:44:39.040Z,"13 km WSW of Falls City, Texas",earthquake,1.2,1.8,0.064,63,reviewed,us,us
+2020-09-05T02:50:08.952Z,28.9152,-98.1215,5,2.6,mb_lg,,71,0.127,0.79,us,us7000bi90,2020-11-17T19:44:38.040Z,"12 km SW of Falls City, Texas",earthquake,1.4,1.9,0.128,16,reviewed,us,us
+2020-09-05T01:48:01.252Z,28.9588,-98.1002,5,2.6,mb_lg,,61,0.105,1.08,us,us7000bi8g,2020-11-17T19:44:38.040Z,"8 km WSW of Falls City, Texas",earthquake,1.1,1.9,0.132,15,reviewed,us,us
+2020-08-25T13:53:42.038Z,28.926,-98.083,5,2.5,mb_lg,,67,0.092,0.4,us,us7000bcpq,2020-10-31T19:06:27.040Z,"8 km SW of Falls City, Texas",earthquake,1.7,1.3,0.098,27,reviewed,us,us
+2020-08-22T14:18:47.409Z,28.9481,-98.1013,5,2.6,mb_lg,,63,0.105,1.12,us,us6000bj24,2020-10-31T19:06:17.040Z,"9 km WSW of Falls City, Texas",earthquake,0.9,1.8,0.082,39,reviewed,us,us
+2020-08-18T15:43:46.535Z,28.9675,-98.0986,5,2.5,mb_lg,,67,0.105,0.42,us,us6000bgm1,2020-10-24T20:09:04.040Z,"8 km WSW of Falls City, Texas",earthquake,1.6,1.8,0.111,21,reviewed,us,us
+2020-08-18T13:55:42.760Z,28.9062,-98.0995,5,2.6,mb_lg,,71,0.112,0.21,us,us6000bgla,2020-10-24T20:09:04.040Z,"11 km SW of Falls City, Texas",earthquake,1.6,1.2,0.09,35,reviewed,us,us
+2020-04-18T13:33:35.835Z,29.0748,-97.8228,5,3.1,mb_lg,,69,0.219,1.27,us,us70008zdf,2020-07-09T14:31:25.040Z,"21 km ENE of Falls City, Texas",earthquake,1.9,1.9,0.055,86,reviewed,us,us
+2020-02-09T04:24:00.631Z,28.5241,-98.1921,5,2.7,mb_lg,,145,0.389,1.09,us,us70007sx1,2020-04-25T22:19:57.040Z,"7km N of Three Rivers, Texas",earthquake,1.4,1.9,0.111,21,reviewed,us,us
+2020-01-22T21:23:39.640Z,29.0723,-97.851,6.87,2.6,mb_lg,,84,0.147,0.7,us,us60007d82,2020-04-11T18:20:39.040Z,"21km NNE of Karnes City, Texas",earthquake,1.5,4.5,0.128,18,reviewed,us,us
+2020-01-07T22:46:29.996Z,28.9765,-97.9207,5,2.9,mb_lg,,59,0.06,0.78,us,us70006w2x,2021-01-03T00:26:48.840Z,"10km N of Karnes City, Texas",earthquake,1.7,1.8,0.083,38,reviewed,us,us
+2019-12-20T08:41:07.329Z,29.0271,-97.9592,4.63,2.4,mb_lg,,51,0.081,0.47,us,us70006p53,2020-03-07T17:47:38.040Z,"12km ESE of Poth, Texas",earthquake,1.3,3.1,0.142,13,reviewed,us,us
+2019-10-31T12:37:59.184Z,28.537,-98.1654,5,2.7,mb_lg,,146,0.399,1.05,us,us700061lb,2020-01-18T20:00:50.040Z,"8km N of Three Rivers, Texas",earthquake,1.9,1.2,0.114,20,reviewed,us,us
+2019-07-02T07:51:27.868Z,28.9565,-98.008,5,2.4,mb_lg,,123,0.026,0.68,us,us60004y6d,2019-09-26T14:29:59.040Z,"13km NW of Karnes City, Texas",earthquake,2.5,1.9,0.093,30,reviewed,us,us
+2019-06-24T22:05:03.052Z,28.5413,-98.1764,5,2.8,mb_lg,,114,0.439,0.86,us,us60004y67,2019-09-11T15:19:45.040Z,"9km N of Three Rivers, Texas",earthquake,1.5,2,0.102,25,reviewed,us,us
+2019-06-16T01:07:18.009Z,28.9484,-97.9834,5,3.6,mb_lg,,56,0.002,1.27,us,us60004195,2020-03-20T02:15:57.713Z,"10km NW of Karnes City, Texas",earthquake,1.7,1.4,0.074,48,reviewed,us,us
+2019-06-16T01:05:29.665Z,28.962,-97.9925,5,2.9,mb_lg,,67,0.018,0.67,us,us60004y66,2019-09-06T14:25:31.040Z,"12km NW of Karnes City, Texas",earthquake,1.7,1.5,0.128,16,reviewed,us,us
+2019-04-23T11:29:03.295Z,29.024,-97.5905,5,2.1,mb_lg,,223,0.861,1.14,us,us70003ayn,2019-07-13T18:42:35.040Z,"9km WNW of Yorktown, Texas",earthquake,3.4,2,0.136,14,reviewed,us,us
+2019-03-23T10:28:50.219Z,29.0376,-97.9149,5,2.9,mb_lg,,55,0.107,0.66,us,us70003hf8,2019-06-06T18:54:19.040Z,"16km N of Karnes City, Texas",earthquake,2,1.9,0.077,44,reviewed,us,us
+2019-03-16T20:55:49.382Z,29.0031,-97.869,7.37,2.8,mb_lg,,74,0.112,0.92,us,us1000jh70,2019-06-01T21:24:10.040Z,"13km NNE of Karnes City, Texas",earthquake,1.3,2.5,0.081,40,reviewed,us,us
+2019-03-04T19:16:13.050Z,29.0257,-97.2069,5,3,mb_lg,,207,0.764,0.48,us,us1000jaf7,2019-05-14T18:36:21.040Z,"11km SE of Cuero, Texas",earthquake,3,2,0.082,39,reviewed,us,us
+2019-02-17T01:33:34.940Z,29.048,-97.9718,5,2.4,mb_lg,,114,0.56,0.85,us,us2000jjcz,2019-05-01T22:01:00.040Z,"10km ESE of Poth, Texas",earthquake,2.2,2,0.142,13,reviewed,us,us
+2019-01-27T03:48:10.710Z,28.5293,-98.2877,5,2.6,mb_lg,,108,0.531,0.62,us,us2000j9cg,2019-04-12T17:15:37.040Z,"12km NW of Three Rivers, Texas",earthquake,3.2,2,0.109,22,reviewed,us,us
+2019-01-26T04:53:31.530Z,28.5296,-98.1691,5,2.7,mb_lg,,122,0.453,0.71,us,us2000j940,2019-04-12T17:15:16.040Z,"7km N of Three Rivers, Texas",earthquake,2.4,2,0.09,32,reviewed,us,us
+2019-01-26T01:29:54.480Z,28.5486,-98.2199,5,2.5,mb_lg,,114,0.473,1.4,us,us2000j92k,2019-04-12T17:15:12.040Z,"10km NNW of Three Rivers, Texas",earthquake,2.2,2,0.117,19,reviewed,us,us
+2018-12-22T07:41:52.550Z,29.037,-97.9797,5,3,mb_lg,,77,0.235,0.98,us,us2000iw8d,2019-02-23T20:22:24.040Z,"10km ESE of Poth, Texas",earthquake,1.7,2,0.073,49,reviewed,us,us
+2018-12-22T05:32:47.400Z,29.0573,-97.8935,5,3.2,mb_lg,,97,0.214,0.62,us,us2000iw7c,2019-02-23T20:22:23.040Z,"18km E of Poth, Texas",earthquake,1.6,2,0.065,61,reviewed,us,us
+2018-11-04T03:00:08.080Z,28.9886,-97.903,5,2.8,mb_lg,,106,0.156,0.73,us,us2000i6kn,2019-01-21T14:29:46.040Z,"11km N of Karnes City, Texas",earthquake,5.1,2,0.083,38,reviewed,us,us
+2018-09-22T10:57:19.020Z,28.867,-98.1948,5,2.5,mb_lg,,108,0.339,0.24,us,us2000him3,2018-11-27T15:52:02.040Z,"25km SSW of Poth, Texas",earthquake,2.7,1.9,0.128,16,reviewed,us,us
+2018-08-16T15:00:58.910Z,29.0952,-97.5732,5,2.9,mb_lg,,131,0.315,0.93,us,us1000gai5,2018-10-27T16:22:04.040Z,"14km NNW of Yorktown, Texas",earthquake,2.1,1.6,0.072,51,reviewed,us,us
+2018-08-02T20:20:13.600Z,29.0911,-97.7988,5,2.6,mb_lg,,119,0.235,0.71,us,us1000g27c,2018-10-16T15:34:16.040Z,"19km S of Nixon, Texas",earthquake,2.6,2,0.089,33,reviewed,us,us
+2018-07-20T10:42:15.840Z,29.0707,-97.8934,5,2.5,mb_lg,,152,0.227,0.29,us,us2000gbes,2018-10-04T14:15:35.040Z,"18km E of Poth, Texas",earthquake,2.8,2,0.095,29,reviewed,us,us
+2018-07-02T00:17:24.660Z,28.9254,-97.8897,5,2.9,mb_lg,,75,0.099,0.64,us,us2000fte5,2018-09-27T14:03:36.040Z,"4km NNE of Karnes City, Texas",earthquake,4.6,2,0.092,65,reviewed,us,us
+2018-06-02T05:46:05.990Z,28.7924,-98.1014,5,3,mb_lg,,95,0.264,0.81,us,us1000ehae,2018-08-28T16:30:09.040Z,"22km WSW of Karnes City, Texas",earthquake,4.5,2,0.062,67,reviewed,us,us
+2018-06-01T10:30:24.810Z,28.7714,-98.5161,8.42,3.1,mb_lg,,73,0.374,0.74,us,us1000ege4,2018-08-28T16:29:39.040Z,"16km S of Jourdanton, Texas",earthquake,2.1,4.3,0.055,86,reviewed,us,us
+2018-05-20T17:41:35.440Z,29.0998,-97.816,5,2.4,mb_lg,,135,0.243,0.47,us,us1000e94b,2018-08-15T19:46:59.040Z,"19km SSW of Nixon, Texas",earthquake,2.2,2,0.114,20,reviewed,us,us
+2018-05-01T16:28:56.060Z,28.9476,-98.0015,5,4,mwr,,74,0.192,0.62,us,us1000dvdg,2018-07-27T20:20:33.040Z,"12km NW of Karnes City, Texas",earthquake,3.2,2,,15,reviewed,us,slm
+2018-04-29T16:59:40.930Z,29.0712,-97.7697,5,2.7,mb_lg,,122,0.217,0.67,us,us1000ducb,2018-07-25T21:38:02.040Z,"21km S of Nixon, Texas",earthquake,2.1,2,0.095,29,reviewed,us,us
+2018-04-26T18:49:47.810Z,28.918,-98.055,5,3.1,mb_lg,,68,0.225,0.65,us,us1000dsw1,2018-07-25T21:37:06.040Z,"15km WNW of Karnes City, Texas",earthquake,6.7,2,0.062,68,reviewed,us,us
+2018-02-19T22:04:32.860Z,28.9711,-97.9398,5,3,mb_lg,,109,0.163,0.73,us,us2000d4zq,2018-05-22T02:00:18.040Z,"10km NNW of Karnes City, Texas",earthquake,3.1,2,0.084,37,reviewed,us,us
+2018-02-12T14:24:49.900Z,29.0077,-97.9173,5,3.1,mb_lg,,118,0.179,0.56,us,us2000d0xm,2018-07-24T19:01:32.506Z,"13km N of Karnes City, Texas",earthquake,2.4,2,0.065,62,reviewed,us,us
+2018-02-12T10:09:47.830Z,28.8486,-98.0253,5,2.5,mb_lg,,87,0.19,0.59,us,us2000d0v4,2018-05-15T06:29:02.040Z,"12km WSW of Karnes City, Texas",earthquake,3.6,2,0.104,24,reviewed,us,us
+2018-01-16T12:30:18.800Z,28.8275,-98.1512,13.12,2.9,mb_lg,,85,0.302,0.58,us,us2000cjxf,2018-04-10T01:11:42.040Z,"25km WSW of Karnes City, Texas",earthquake,1.7,8,0.098,27,reviewed,us,us
+2018-01-09T20:14:03.930Z,29.0495,-97.9087,5,2.8,mb_lg,,146,0.212,0.66,us,us1000c2ri,2018-07-16T20:08:02.124Z,"17km E of Poth, Texas",earthquake,3.1,2,0.079,42,reviewed,us,us
+2018-01-07T08:56:56.380Z,28.8912,-98.2041,5,3.1,mb_lg,,74,0.282,0.43,us,us1000c1ny,2018-03-23T23:16:53.040Z,"23km SSW of Poth, Texas",earthquake,2.3,2,0.074,47,reviewed,us,us
+2018-01-06T15:37:17.770Z,28.8497,-98.119,5,3.6,mb_lg,,82,0.272,1.07,us,us1000c1fk,2020-03-20T02:06:56.877Z,"21km W of Karnes City, Texas",earthquake,4.1,2,0.068,56,reviewed,us,us
+2017-11-14T15:24:12.610Z,28.9834,-98.0504,5,2.8,mb_lg,,108,0.247,1.27,us,us2000bnav,2018-02-06T02:45:34.040Z,"10km SSE of Poth, Texas",earthquake,1.4,2,0.1,26,reviewed,us,us
+2017-11-14T08:54:01.130Z,28.5903,-97.5701,5,2.7,mb_lg,,259,0.336,1.4,us,us2000bn5j,2018-02-06T02:45:33.040Z,"19km WSW of Goliad, Texas",earthquake,4.5,2,0.085,36,reviewed,us,us
+2017-07-02T09:00:46.930Z,29.0542,-97.9082,5.45,3,mb_lg,,105,0.216,0.52,us,us100095ul,2017-10-03T00:47:44.040Z,"17km E of Poth, Texas",earthquake,4.1,7,0.064,64,reviewed,us,us
+2016-12-13T06:04:59.790Z,28.9917,-97.9172,5,3,mb_lg,,83,0.166,0.89,us,us200080ee,2017-03-09T02:14:29.040Z,"11km N of Karnes City, Texas",earthquake,2.9,2,0.102,42,reviewed,us,us
+2015-01-31T03:30:02.570Z,29.0313,-97.969,5,2.8,mb_lg,,97,0.225,0.95,us,usc000tktb,2015-05-02T14:07:28.040Z,"11km ESE of Poth, Texas",earthquake,2.7,2,0.154,12,reviewed,us,us
+2015-01-31T02:17:02.280Z,28.8457,-98.08,5,3.1,mb_lg,,104,0.238,0.56,us,usc000tkj3,2015-05-02T14:07:27.040Z,"18km WSW of Karnes City, Texas",earthquake,6.6,2,0.096,35,reviewed,us,us
+2015-01-30T11:01:38.840Z,29.061,-97.9756,5,2.5,mb_lg,,97,0.252,0.52,us,usc000tksx,2015-05-02T14:07:28.040Z,"10km E of Poth, Texas",earthquake,4.5,2,0.17,12,reviewed,us,us
+2015-01-16T18:07:32.430Z,28.951,-98.5897,5,2.8,mb_lg,,73,0.691,0.55,us,usc000th0s,2015-04-20T15:34:52.040Z,"5km NW of Jourdanton, Texas",earthquake,2.7,1.8,0.17,12,reviewed,us,us
+2012-06-24T08:55:58.570Z,28.426,-98.382,5,3.4,mblg,26,97.5,,0.93,us,usp000jn67,2015-03-24T02:35:57.367Z,"southern Texas",earthquake,,,,,reviewed,us,us
+2012-02-04T12:48:08.500Z,28.845,-98.202,5,3,mblg,15,134.4,,0.61,us,usp000jefk,2015-03-24T02:13:20.037Z,"southern Texas",earthquake,,,,,reviewed,us,us
+2011-11-12T10:34:53.850Z,28.869,-98.21,5,3.5,mblg,31,108.9,,0.78,us,usp000jar2,2020-03-19T20:34:44.080Z,"southern Texas",earthquake,,,,,reviewed,us,us
+2011-10-20T12:24:41.600Z,28.865,-98.079,5,4.8,mwr,220,30.6,,1.23,us,usp000j9kx,2020-04-10T20:48:05.694Z,"southern Texas",earthquake,,,,,reviewed,us,us
+2011-01-10T01:14:22.190Z,29.072,-97.892,5,2.6,mblg,12,116.5,,1.08,us,usp000hsuw,2015-03-24T01:14:17.774Z,"southern Texas",earthquake,,,,,reviewed,us,us
+2010-12-21T13:53:18.040Z,28.642,-98.039,5,3,mblg,6,289,,0.88,us,usp000hr92,2014-11-07T01:43:10.433Z,"southern Texas",earthquake,,,,,reviewed,us,us
+2010-03-08T23:47:28.120Z,28.946,-98.039,5,3,mblg,8,141.6,,1.09,us,usp000h8zg,2015-03-24T02:26:43.213Z,"southern Texas",earthquake,,,,,reviewed,us,us

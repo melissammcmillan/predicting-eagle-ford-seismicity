@@ -73,7 +73,7 @@ Once the data were read in and cleaned, it needed to be consolidated and combine
 #### EDA and Findings
 The EDA for this project turned out to be interesting, especially when comparing the completions parameters over time. The most telling of these findings is the size of the completions in Karnes over the last ~10 years. As it is in many onshore US basins, the amount of pumped water to induce fractures in the target reservoir has increased dramatically. The Eagle Ford Shale trend is no exception, and the plot below shows that the average pumped volume of water per lateral foot (assuming mile long laterals for all wells) has gone from ~300 gallons in 2012 to ~2500 gallons in 2020. In the plot, I have colored the data by the average daily magnitude in seismicity, and I believe there is a trend between the average daily size of earthquake events and this dramatic increase in injected water volume.
 
-<img src="images/Pumped_Vol_Lateral_over_Time.png" width ="600" height="400">
+<img src="images/Pumped_Volume_over_Time2.png" width ="600" height="400">
 
 
 #### Final Production Model
